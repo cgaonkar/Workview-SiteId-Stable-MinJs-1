@@ -1,0 +1,47 @@
+﻿body {font-family: 'PT Sans',sans-serif;background:url('../images/homebackground.jpg') no-repeat center center fixed;background-size: cover; font-size: 13px;line-height: 1;font-weight: normal;color: #39424c;}
+#content {border:2px solid #C9C9C9;background:#fff;padding:40px;width:320px;margin:0 auto;margin-top:100px;/*min-height:350px;*/}
+#companylogo img {float:left;padding-right:5px;}
+#companylogo .work {font-family:'Ubuntu';color:#8b9ebc;font-size:4.45em;float:left;letter-spacing:-2px;margin-top:-2px;}
+#companylogo .view {font-family:'Ubuntu';color:#18355e;font-size:4.45em;float:left;letter-spacing:-2px;margin-top:-2px;}
+.tagline {text-align:right;color:#18355e;font-size:1.1em;margin:0 auto;}
+#div_login input[type=email], #div_login input[type=password], #div_login input[type=text] {width:calc(100% - 10px);padding:5px;margin:10px 0 10px 0;border:2px solid #C9C9C9;}
+.center {color:#fff;}
+
+button.cssbutton {padding:1px 15px 3px 15px;text-decoration:none;border:1px solid #8399b0;color:#26466A;background:#fff;cursor:pointer}
+button.cssbutton.narrow {padding:1px 10px 3px 10px}
+button.cssbutton.primary {border-width:0;background:#fba204;color:#fff;}
+button.cssbutton.secondary {border-width:0;background:#18355e;color:#fff;}
+button.cssbutton.tertiary {border-width:0;background:#8b9ebc;color:#fff;}
+button.cssbutton.transparent {background-color:transparent;border-color:#fff;}
+button.cssbutton.tall {padding:5px 20px 5px 20px;}
+
+input[type="checkbox"] {
+    margin: 3px 3px 3px 4px;
+}
+user agent stylesheet
+input[type="checkbox"] {
+    -webkit-appearance: checkbox;
+    box-sizing: border-box;
+}
+user agent stylesheet
+input[type="radio"], input[type="checkbox"] {
+    background-color: initial;
+    margin: 1px 0.5px 30px 0px;
+    padding: initial;
+    border: initial;
+}
+
+.small {
+    font-size: 0.8em;
+}
+
+.alert{color: #ea453c; font-size: 13px;}
+.alert-danger{margin-top:15px;}
+
+.header {
+    font-size: 15px;
+    font-weight: bold;    
+    margin: 20px 0px;
+}
+
+a{color: #1753a5;text-decoration: none;cursor: pointer;}
